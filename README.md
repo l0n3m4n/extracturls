@@ -18,6 +18,11 @@ A simple Bash utility for extracting URLs from [GoSpider](https://github.com/jae
 - `xurls`
 - GoSpider output
 
+## Gospider command 
+```bash
+gospider -S https-subs.txt -o gooutput -c 10 -d 3 -t 20
+```
+
 ## Installation
 
 Clone the repository:
