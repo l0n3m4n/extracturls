@@ -23,14 +23,12 @@ A simple Bash utility for extracting URLs from [GoSpider](https://github.com/jae
 gospider -S https-subs.txt -o gooutput -c 10 -d 3 -t 20
 ```
 
-## Installation
-
-Clone the repository:
-
 ## Install xurls   
 ```bash
 go install github.com/mvdan/xurls/cmd/xurls@latest
 ```
+
+## Installation
 
 ```bash
 git clone https://github.com/l0n3m4n/extracturls.git
